@@ -708,6 +708,12 @@
           img: "/public/assets/img/team/miracleolatunji.png",
           linkedin: "https://www.linkedin.com/in/miracleolatunji/",
           title: ""
+        },
+        {
+          name: "Anna Shaw",
+          img: "/public/assets/img/team/annashaw.jpg",
+          linkedin: "https://www.linkedin.com/in/annashawprofile/",
+          title: ""
         }
       ];
 
