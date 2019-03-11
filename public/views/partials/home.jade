@@ -18,7 +18,7 @@ section#intro
       div.intro-date-contain
         h2.animated.fadeIn APRIL 5 - 6
       div.apply-btn-container
-        a.apply-btn.animated.fadeIn(ng-hide="hideButton", target="_blank", href=" https://goo.gl/forms/b2FEBE6ANd4FbTwf1") REGISTER NOW
+        a.apply-btn.animated.fadeIn(ng-hide="hideButton", target="_blank", href=" https://goo.gl/forms/RH5X9CWFcB5QY0qd2") REGISTER NOW
       //h2.registration-warning {{getTimeLeftMessage()}}
 
 section#about
@@ -47,6 +47,7 @@ section#speakers
           img(ng-src="{{speaker.img}}")
         p.member-name {{speaker.name}} #[span.black(ng-if="speaker.isModerator") (Moderator)]
         p.ital {{speaker.title}}, {{speaker.company}}
+        p.ital {{speaker.role}}
 
 div.ng-modal(ng-show='modalVisible')
   div.ng-modal-overlay(ng-click='hideModal()')
@@ -87,18 +88,18 @@ section#schedule
 section#location
   h1.section-title Location
   div.container
-    div.row.row-centered
-      div.col-md-12#map.col-centered
     div.row.row-centered.location-text-holder
       div.col-md-6.location-text
         h2 Alumni Night
-        p.ital Behrakis Health Sciences Center
-        p.ital 30 Leon Street
-        p.ital Boston, MA 02115
+        p.ital Northeastern University
+        p.ital Alumni Center
+        p.ital 716 Columbus Avenue
+        p.ital Boston, MA 02120
       div.col-md-6.location-text
         h2 Conference
-        p.ital Northeastern Interdisciplinary Science & Engineering Complex
-        p.ital 805 Columbus Avenue
+        p.ital Northeastern University
+        p.ital West Village F
+        p.ital 40 Leon Street
         p.ital Boston, MA 02115
 
 section#faq

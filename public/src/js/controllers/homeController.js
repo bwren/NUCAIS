@@ -32,26 +32,6 @@
         $scope.modalVisible = false;
       }
 
-      /* Google Maps */
-      var mapOptions = {
-        zoom: 15,
-        center: new google.maps.LatLng(LAT_CONF, LONG_CONF),
-        mapTypeId: google.maps.MapTypeId.TERRAIN
-      };
-
-      $scope.markerConference = new google.maps.Marker({
-        position: {lat: LAT_CONF, lng: LONG_CONF},
-        title: 'Speaker Conference'
-      });
-
-      $scope.markerNetworking = new google.maps.Marker({
-        position: {lat: LAT_NWK, lng: LONG_NWK},
-        title: 'Alumni Panel & Networking Night'
-      });
-
-      $scope.map = new google.maps.Map(document.getElementById('map'), mapOptions);
-      $scope.markerConference.setMap($scope.map);
-      $scope.markerNetworking.setMap($scope.map);
 
       $scope.hideButton = false;
 
@@ -128,6 +108,7 @@
                 year: "",
                 title: "Author",
                 company: "New York Times",
+                role: "",
                 keynote: true,
                 bioParagraphs: ["William D. Cohan, a former senior Wall Street M&A investment banker for 17 years at Lazard Frères & Co., Merrill Lynch and JPMorganChase, is the New York Times bestselling author of three non-fiction narratives about Wall Street: “Money and Power: How Goldman Sachs Came to Rule the World”; “House of Cards: A Tale of Hubris and Wretched Excess on Wall Street”; and, “The Last Tycoons: The Secret History of Lazard Frères & Co.”, the winner of the 2007 FT/Goldman Sachs Business Book of the Year Award. His book, “The Price of Silence”, about the Duke lacrosse scandal was published in April 2014 and was also a New York Times bestseller. His new book, “Why Wall Street Matters”, was published by Random House in February 2017. He is a special correspondent at Vanity Fair and a columnist for the DealBook section of the New York Times. He also writes for The Financial Times, The New York Times, Bloomberg BusinessWeek, The Atlantic, The Nation, Fortune,and Politico. He previously wrote a bi-weekly opinion column for The New York Times and an opinion column for BloombergView. He also appears regularly on CNN, on Bloomberg TV, where he is a contributing editor, on MSNBC and the BBC-TV. He has also appeared three times as a guest on the Daily Show, with Jon Stewart, The NewsHour, The Charlie Rose Show, The Tavis Smiley Show, and CBS This Morning as well as on numerous NPR, BBC and Bloomberg radio programs.",
                     "He is a graduate of Phillips Academy, Duke University, Columbia University School of Journalism and the Columbia University Graduate School of Business."
@@ -140,6 +121,7 @@
                 year: "",
                 title: "Founder and Managing Partner",
                 company: "Glasswing Ventures",
+                role: "",
                 keynote: true,
                 modalShown: false,
                 bioParagraphs: ["Rudina Seseri is Founder and Managing Partner of Glasswing Ventures, an early-stage venture capital firm dedicated to investing in the next generation of AI-powered technology companies. With over 17 years of investing and transactional experience, Rudina has led technology investments and acquisitions in startup companies in enterprise SaaS, IT software and data, marketing technologies and robotics. Rudina’s portfolio of investments include AUTIT, Celtra, CHAOSSEARCH, CrowdTwist, Inrupt, Plannuh, SocialFlow, Talla and Zylotech. Rudina is a Harvard Business School Rock Venture Capital Partner and Entrepreneur-In-Residence, serving for 5 consecutive years. She is also a Member of the Business Leadership Council of Wellesley College.",
@@ -158,6 +140,7 @@
             year: "",
             title: "Professor",
             company: "Northeastern University",
+            role: "Moderator",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -171,6 +154,7 @@
             year: "",
             title: "ESG Equity Analyst",
             company: "Trillium Asset Management",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -186,6 +170,7 @@
             year: "",
             title: "Managing Director",
             company: "Boston Impact Initiative Fund",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -200,6 +185,7 @@
             year: "",
             title: "Director of Responsible Investment Strategy",
             company: "Eaton Vance",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -220,6 +206,7 @@
             year: "",
             title: "President and CEO",
             company: "CAIA",
+            role: "Moderator",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -233,6 +220,7 @@
             year: "",
             title: "Senior MD and Commodities Portfolio Manager",
             company: "Wellington Management",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -247,11 +235,10 @@
             year: "",
             title: "Director",
             company: "Global Energy & Commodities",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
-              "",
-              ""
             ]
           }
         ]
@@ -266,6 +253,7 @@
             year: "",
             title: "Reporter",
             company: "Wall Street Journal",
+            role: "Moderator",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -280,11 +268,10 @@
             year: "",
             title: "International Head of Fund of Funds & Alternatives",
             company: "Itau Asset Management",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
-              "",
-              ""
             ]
           },
           {
@@ -294,6 +281,7 @@
             year: "",
             title: "Portfolio Manager",
             company: "Anchor Capital Management",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -314,6 +302,7 @@
             year: "",
             title: "Senior Associate",
             company: "One Way Ventures",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -333,6 +322,7 @@
             year: "",
             title: "Managing Partner",
             company: "Longwharf Capital",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -346,11 +336,12 @@
         'members': [
           {
             name: "Michelle Kelner",
-            img: "/public/assets/img/speakers/headshots/unavailable.png",
+            img: "/public/assets/img/speakers/headshots/michellekelner.jpg",
             topic: "",
             year: "",
             title: "Senior Partner",
             company: "Sandglass Capital",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -372,6 +363,7 @@
             year: "",
             title: "Associate",
             company: "Providence Equity",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -385,6 +377,7 @@
             year: "",
             title: "Analyst",
             company: "Advantage Capital",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -396,12 +389,12 @@
             img: "/public/assets/img/speakers/headshots/katiemulligan.jpg",
             topic: "",
             year: "",
-            title: "",
-            company: "",
+            title: "Associate",
+            company: "Pillar VC",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
-              ""
             ]
           },
           {
@@ -411,10 +404,10 @@
             year: "",
             title: "Research Analyst",
             company: "Point72 Asset Management",
+            role: "",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
-              ""
             ]
           }
         ]
@@ -532,7 +525,7 @@
           speaker: ""
         },
         {
-          time: "6 PM",
+          time: "6:00 PM",
           activity: "Welcome",
           speaker: "Dean Echambadi - Dean, DMSB\nNicholas Lara - Chairman, CAIS"
         },
@@ -578,7 +571,7 @@
         {
           time: "10:10 AM",
           activity: "Defining Impact Investing",
-          speaker: "Mark Bernfeld*- Professor, Northeastern University\nMitali Prasad - ESG Equity Analysis, Trillium Asset Management\nMark Watson- MD, Boston Impact Initiative Fund\nLisa Hayles- Principal, Boston Common Asset Management\nAnthony Eames- Director of Responsible Investment Strategy, Calvert"
+          speaker: "Mark Bernfeld*- Professor, Northeastern University\nMitali Prasad - ESG Equity Analysis, Trillium Asset Management\nMark Watson- MD, Boston Impact Initiative Fund\nAnthony Eames- Director of Responsible Investment Strategy, Calvert"
         },
         {
           time: "10:50 AM",
@@ -608,7 +601,7 @@
         {
           time: "2:35 PM",
           activity: "Investing in Technology",
-          speaker: "Lex Zhao- Senior Associate, One Way Ventures\nVivjan Myrto- Founder & Managing Partner, Hyperplane VC"
+          speaker: "Lex Zhao- Senior Associate, One Way Ventures"
         },
         {
           time: "3:25 PM",
