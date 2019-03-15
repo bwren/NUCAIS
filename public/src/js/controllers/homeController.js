@@ -309,6 +309,19 @@
               "Lex is a Senior Associate at One Way Ventures, a sector agnostic seed stage venture fund backing exceptional immigrant tech founders. He is an immigrant from China and previously led the operations team at Vestwell, a venture-backed fintech startup. Prior to Vestwell, Lex earned his MBA with Honors from the University of Chicago Booth School of Business. At Chicago Booth, he was as an Associate at Moderne Ventures and took part in the New Venture Challenge accelerator program.",
               "Lex started his career at Bridgewater Associates, the world’s largest hedge fund, and NERA Economic Consulting, a leading economic consultancy. Lex graduated from Cornell University where he earned his B.A. in Economics with Distinction."
             ]
+          },
+          {
+            name: "Vivjan Myrto",
+            img: "/public/assets/img/speakers/headshots/vivjanmyrto.jpg",
+            topic: "",
+            year: "",
+            title: "Founder and Managing Partner",
+            company: "Hyperplane VC",
+            role: "",
+            keynote: false,
+            modalShown: false,
+            bioParagraphs: [
+            ]
           }
         ]
       },
@@ -601,7 +614,7 @@
         {
           time: "2:35 PM",
           activity: "Investing in Technology",
-          speaker: "Lex Zhao- Senior Associate, One Way Ventures"
+          speaker: "Lex Zhao- Senior Associate, One Way Ventures\nVivjan Myrto- Founder and Managing Partner, Hyperplane VC"
         },
         {
           time: "3:25 PM",
@@ -794,38 +807,30 @@
       var imgRoot = "/public/assets/img/sponsors/";
 
       $scope.sponsors = [
-        {'category': 'Platinum Sponsors',
-          'members': [{
-            name: "Thrive",
-            img: imgRoot + "thrive.jpg",
-            title: "Platinum Sponsor",
-            link: "http://www.northeastern.edu/cfi"
-        }]
-      },
       {
         'category': 'Gold Sponsors',
         'members': [{
-                  name: "General Catalyst",
-                  img: imgRoot + "generalcatalyst.png",
+                  name: "Thrive",
+                  img: imgRoot + "thrive.jpg",
                   title: "Gold Sponsor",
-                  link: "http://generalcatalyst.com/"
+                  link: "http://www.northeastern.edu/cfi"
                 },
                 {
-                  name: "UBS",
-                  img: imgRoot + "ubs.png",
+                  name: "Hercules Capital",
+                  img: imgRoot + "herculescapital.png",
                   title: "Gold Sponsor",
-                  link: "https://www.ubs.com/us/en.html"
+                  link: "https://www.htgc.com/"
+                },
+                {
+                  name: "Eaton Vance",
+                  img: imgRoot + "eatonvance.jpg",
+                  title: "Gold Sponsor",
+                  link: "https://www.eatonvance.com/"
                 }]
       },
       {
         'category': 'Silver Sponsors',
         'members': [
-          {
-            name: "EY",
-            img: imgRoot + "ey.png",
-            title: "Silver Sponsor",
-            link: ""
-          },
                 {
                   name: "CFA Society Boston",
                   img: imgRoot + "cfaboston.jpg",
@@ -833,22 +838,12 @@
                   link: "https://www.cfaboston.org/"
                 },
                 {
-                          name: "CAIA",
-                          img: imgRoot + "caia.jpg",
-                          title: "Silver Sponsor",
-                          link: "https://www.caia.org/"
-                        }
-                      ]
-      },
-      {
-        'category': 'Media & Data Sponsors',
-        'members': [
-              {
-                name: "Wall Street Oasis",
-                img: imgRoot + 'wso.png',
-                hasFacts: true,
-                link: "http://www.wallstreetoasis.com/"
-              }]
+                  name: "CAIA",
+                  img: imgRoot + "caia.jpg",
+                  title: "Silver Sponsor",
+                  link: "https://www.caia.org/"
+                }
+              ]
       }
       ];
 
