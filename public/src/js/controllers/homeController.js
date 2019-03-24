@@ -193,6 +193,21 @@
                 "Anthony began his career in the investment management industry in 1995, and joined Eaton Vance in 2016. Before joining Eaton Vance, he was senior vice president and national sales manager at Calvert Investment Management. Previously, he represented Calvert as senior regional vice president in the Northeast and held various roles in client services and sales.",
                 "Anthony earned a B.A. from Wittenberg University. He holds the Accredited Investment Fiduciary and Accredited Asset Management Specialist designations, and FINRA Series 7, 24 and 63 licenses."
             ]
+          },
+          {
+            name: "Lisa Hayles",
+            img: "/public/assets/img/speakers/headshots/lisahayles.jpg",
+            topic: "",
+            year: "",
+            title: "Principal",
+            company: "Boston Common Asset Management",
+            role: "",
+            keynote: false,
+            modalShown: false,
+            bioParagraphs: [
+              "Lisa Hayles specializes in promoting sustainable and impact investing with institutional investors. She works at Boston Common Asset Management, where she focuses on engagements promoting gender and racial equality. A native of Toronto, Lisa relocated to Boston from the UK in 2013. She supports Womenade, a giving circle serving Boston area women and girls and is on the investment committee of the St. James Episcopal Church in Cambridge. An enthusiastic traveler, dancer and yoga practitioner, Lisa is interested in the intersection of financial markets and social justice.",
+              "Lisa is the BII Fund Board representative for RSF Social Finance."
+            ]
           }
         ]
       },
@@ -321,6 +336,24 @@
             keynote: false,
             modalShown: false,
             bioParagraphs: [
+              "Vivjan Myrto is the founder and managing partner of Hyperplane Venture Capital, an early stage venture capital firm based in Boston focused on data and machine intelligence companies with investments in Alphasheets, TellusLabs, Talla, Vesper, Kite, Sentenai and others. Prior to Hyperplane, Vivjan was co-founder and CEO of ChromoGen, which was acquired in 2013. He is an active member of the Boston entrepreneurial ecosystem and serves as the director of various non-profit organizations."
+            ]
+          },
+          {
+            name: "Holly Maloney",
+            img: "/public/assets/img/speakers/headshots/hollymaloney.jpg",
+            topic: "",
+            year: "",
+            title: "Managing Partner",
+            company: "General Catalyst",
+            role: "",
+            keynote: false,
+            modalShown: false,
+            bioParagraphs: [
+              "Holly began her career as an investor at Guidepost Growth Equity (FKA: North Bridge Growth Equity) several years ago. She worked hard to build a foundation for what she hoped to be a long-term career: sourcing and executing investments in software-based companies; and cultivating trusted relationships with entrepreneurs and industry executives. While there, she worked closely with companies such as Dyn, Erecruit, Spoonflower, and WP Engine and was focused on infrastructure, communications, human capital management, marketplaces, manufacturing, and digital media. She remains interested in these categories of companies, which operate with highly scalable revenue models that may include subscriptions, transactions, and high margin services.",
+              "At General Catalyst, she focuses on later-stage companies that have already achieved some success and have demonstrated capital efficiency prior to our involvement, like the sports management platform, Teamworks.",
+              "Scaling a successful business into one that defines or disrupts a category often involves pattern recognition – knowing in advance how events are likely to unfold – and the team at General Catalyst has those insights in abundance. ",
+              "Holly holds an AB in Economics from Bowdoin College."
             ]
           }
         ]
@@ -340,6 +373,42 @@
             modalShown: false,
             bioParagraphs: [
               "Jeff is a founding partner of Long Wharf and is responsible for capital raising, investor relations, and business strategy for the firm. He is also a member of Long Wharf’s investment committee and works closely with the investment and accounting teams on portfolio management and capital markets activities. Jeff has 27 years of experience in the real estate and alternative investments markets, and holds a B.A from Tufts University."
+            ]
+          },
+          {
+            name: "Matthew Gottesdiener",
+            img: "/public/assets/img/speakers/headshots/matthewgottesdiener.jpg",
+            topic: "",
+            year: "",
+            title: "Chief Investment Officer",
+            company: "Northland Investment Corporation",
+            role: "",
+            keynote: false,
+            modalShown: false,
+            bioParagraphs: [
+              "Northland Investment Corporation is a real estate private equity firm with $5 billion of assets under management, including more than 25,000 residential units and 2.5 million square feet of commercial space, and $3.5 billion of development in progress. It is a long-time industry leader, having acquired, developed and managed more than 20 million square feet of multifamily and commercial real estate across the country.",
+              "Matthew directs all aspects of Northland’s investment activity including acquisitions, dispositions and financings, and plays a leading role in setting and monitoring the company’s vision and strategy. He is also responsible for overseeing fund-level risk management and pursuing new business development, including capital formation and strategic partnerships.",
+              "Since joining Northland, Matthew has been responsible for the acquisition of 5,300 units, the disposition of 3,330 units, and the financing of over 50 properties, totaling more than $3 billion in capital events.",
+              "Matthew is a full member of the Urban Land Institute, where he serves on ULI’s Multi-Family Blue Product Council, and is a Board Member of the National Multifamily Housing Council (NMHC). Matthew also serves as a member of the Board of Directors at Homestart, a not-for-profit that provides a comprehensive system of housing search, support, and stabilization services to the homeless and indigent in the Greater Boston area.",
+              "Prior to joining Northland, Matthew worked at Goldman Sachs, where he developed and employed volatility trading strategies for the firm’s high net worth and family office client base.  In his role, he was also responsible for the day-to-day operations of the Corporate Derivatives trading book, executing and hedging over $40 billion in transactions with more than twenty Fortune 100 companies. Matthew holds a B.A. from Yale University, magna cum laude, where he was elected Phi Beta Kappa."
+            ]
+          },
+          {
+            name: "George Conti",
+            img: "/public/assets/img/speakers/headshots/georgeconti.jpg",
+            topic: "",
+            year: "",
+            title: "Vice President of Global Real Estate",
+            company: "Iron Mountain",
+            role: "",
+            keynote: false,
+            modalShown: false,
+            bioParagraphs: [
+              "Iron Mountain Incorporated (NYSE: IRM) is a global business dedicated to storing, protecting and managing, information and assets.  Organizations across the globe trust Iron Mountain to store and protect information and assets. Thousands of local enterprises work with the company, as does almost all of the Fortune 1000. From critical business information to geological samples, works of fine art to original recordings of treasured artists, customers can rely on them to protect what they value and help unlock its potential.",
+              "George is a member of the real estate senior executive team at Iron Mountain, and as such is responsible for organizational goal setting, prioritization and team development across a global portfolio.  In this role, George is responsible for global oversight (50+ countries) of facilities management, global portfolio strategy, capital allocation, investment analysis, international project management, lease accounting and corporate financial management of around $100 million in capital spending annually.",
+              "In 2014, in conjunction with IM’s conversion to a REIT, George began the role of overseeing the firm’s Global Real Estate Purchase Program with the goal of owning more real estate over time and optimizing the existing portfolio. In 2014 this resulted in approximately 1M sq. ft. of space being purchased and/or brought under agreement with an additional purchase opportunity of over 20M sq. ft. of space identified in North America over time.",
+              "Prior to his role at Iron Mountain, George was a member of the senior executive team in the Fidelity Real Estate organization, and was responsible for the creation of all short, medium- and long-term real estate strategies that supported the Fidelity business.  Before that, he was a controller at a full-service retail café, business dining and catering provider with revenues of $25M, 25 business units, and 300 employees (2005 statistics).",
+              "He is a recognized industry speaker, and holds a Bachelor’s of Science in Hotel and Restaurant Administration from Cornell University."
             ]
           }
         ]
@@ -551,7 +620,7 @@
         {
           time: "7:10 PM",
           activity: "DMSB Young Alumni",
-          speaker: "Ryan Lee - Analyst, Advantage Capital\nKatie Mulligan - Associate, Pillar VC\nTim O'Brien - Research Analyst, Point72 Asset Management\nMatthew Saitta- Associate, Providence Equity"
+          speaker: "Nicholas Lara - Chairman, CAIS\nRyan Lee - Analyst, Advantage Capital\nKatie Mulligan - Associate, Pillar VC\nTim O'Brien - Research Analyst, Point72 Asset Management\nMatthew Saitta- Associate, Providence Equity"
         },
         {
           time: "8:20 PM",
@@ -578,13 +647,13 @@
         },
         {
           time: "9:10 AM",
-          activity: "Real Estate",
-          speaker: "Jeff Gandel - Partner, LongWharf Capital"
+          activity: "Keynote Address",
+          speaker: "Rudina Seseri- Founder, Glasswing Capital"
         },
         {
-          time: "10:10 AM",
-          activity: "Defining Impact Investing",
-          speaker: "Mark Bernfeld*- Professor, Northeastern University\nMitali Prasad - ESG Equity Analysis, Trillium Asset Management\nMark Watson- MD, Boston Impact Initiative Fund\nAnthony Eames- Director of Responsible Investment Strategy, Calvert"
+          time: "10:00 AM",
+          activity: "Real Estate",
+          speaker: "Nicole Boyson* - Professor, Northeastern University\nJeff Gandel - Partner, LongWharf Capital\nGeorge Conti- VP Of Global Real Estate, Iron Mountain\nMatthew Gottesdiener- CIO, Northland"
         },
         {
           time: "10:50 AM",
@@ -593,36 +662,36 @@
         },
         {
           time: "11:05 AM",
+          activity: "Defining Impact Investing",
+          speaker: "Mark Bernfeld* - Professor, Northeastern University\nMitali Prasad - ESG Equity Analysis, Trillium Asset Management\nMark Watson- MD, Boston Impact Initiative Fund\nLisa Hayles- Principal, Boston Common Asset Management\nAnthony Eames- Director of Responsible Investment Strategy, Calvert"
+        },
+        {
+          time: "11:55 AM",
           activity: "Commodities",
           speaker: "Bill Kelly* - CEO, CAIA\nDavid Chang - Portfolio Manager, Wellington Management\nMichael Mandell - Director, Natixis"
         },
         {
-          time: "11:55 AM",
-          activity: "Why Alternatives?",
-          speaker: "Dawn Lim* - Reporter, Wall Street Journal\nJeff Lombardi - Int'l Head of Fund of Funds & Alternatives, Itau USA AM\nJennifer DeSisto - Portfolio Manager, Anchor Capital Advisors"
-        },
-        {
-          time: "12:50 PM",
+          time: "12:45 PM",
           activity: "Lunch",
           speaker: ""
         },
         {
-          time: "1:45 PM",
-          activity: "Keynote Address",
-          speaker: "Rudina Seseri- Founder, Glasswing Capital"
+          time: "01:40 PM",
+          activity: "Why Alternatives?",
+          speaker: "Dawn Lim* - Reporter, Wall Street Journal\nJeff Lombardi - Int'l Head of Fund of Funds & Alternatives, Itau USA AM\nJennifer DeSisto - Portfolio Manager, Anchor Capital Advisors"
         },
         {
-          time: "2:35 PM",
+          time: "2:30 PM",
           activity: "Investing in Technology",
-          speaker: "Lex Zhao- Senior Associate, One Way Ventures\nVivjan Myrto- Founder and Managing Partner, Hyperplane VC"
+          speaker: "Lex Zhao- Senior Associate, One Way Ventures\nVivjan Myrto- Founder and Managing Partner, Hyperplane VC\nHolly Maloney- Managing Director, General Catalyst"
         },
         {
-          time: "3:25 PM",
+          time: "3:20 PM",
           activity: "Alternatives Pitch",
           speaker: "Michelle Kelner - Senior Partner, Sandglass Capital Management"
         },
         {
-          time: "4:15 PM",
+          time: "4:10 PM",
           activity: "Closing Remarks",
           speaker: "Alyssa Wren - CAIS Co-President"
         },
@@ -842,6 +911,24 @@
                   img: imgRoot + "caia.jpg",
                   title: "Silver Sponsor",
                   link: "https://www.caia.org/"
+                },
+                {
+                  name: "Summit Partners",
+                  img: imgRoot + "summitpartners.jpg",
+                  title: "Silver Sponsor",
+                  link: "https://www.summitpartners.com/"
+                },
+                {
+                  name: "Strip Supply",
+                  img: imgRoot + "stripsupply.png",
+                  title: "Silver Sponsor",
+                  link: "https://stripsupply.com/"
+                },
+                {
+                  name: "Beauty Bakerie",
+                  img: imgRoot + "beautybakerie.png",
+                  title: "Silver Sponsor",
+                  link: "https://www.beautybakerie.com/"
                 }
               ]
       }
