@@ -254,6 +254,10 @@
             keynote: false,
             modalShown: false,
             bioParagraphs: [
+              "Michael Mandell is a Director in the Energy and Natural Resources team at Natixis in New York. He specializes in Commodity Trade and Inventory Finance, and covers a wide range of commodity sectors in the Americas, including Energy (oil, gas & power), Metals (base and precious metals) and Agricultural products.  Michael is a leader in physical commodity merchant finance with a focus on structured solutions including syndicated borrowing base facilities, and structured inventory financing.",
+              "Prior to Natixis, Michael was a Director in the Energy and Agriculture Commodities team at Scotiabank, with a focus on Inventory Finance. Previously, he worked at Standard Chartered Bank in their Structured Inventory Products team, and started his career at Merrill Lynch in various market and credit risk roles.",
+              "Michael graduated from Northeastern University with a Bachelor of Science in Business Administration in 2006."
+              
             ]
           }
         ]
@@ -350,10 +354,24 @@
             keynote: false,
             modalShown: false,
             bioParagraphs: [
-              "Holly began her career as an investor at Guidepost Growth Equity (FKA: North Bridge Growth Equity) several years ago. She worked hard to build a foundation for what she hoped to be a long-term career: sourcing and executing investments in software-based companies; and cultivating trusted relationships with entrepreneurs and industry executives. While there, she worked closely with companies such as Dyn, Erecruit, Spoonflower, and WP Engine and was focused on infrastructure, communications, human capital management, marketplaces, manufacturing, and digital media. She remains interested in these categories of companies, which operate with highly scalable revenue models that may include subscriptions, transactions, and high margin services.",
-              "At General Catalyst, she focuses on later-stage companies that have already achieved some success and have demonstrated capital efficiency prior to our involvement, like the sports management platform, Teamworks.",
-              "Scaling a successful business into one that defines or disrupts a category often involves pattern recognition – knowing in advance how events are likely to unfold – and the team at General Catalyst has those insights in abundance. ",
-              "Holly holds an AB in Economics from Bowdoin College."
+              "Holly Maloney is a managing partner of General Catalyst where she invests in later-stage high growth software driven companies, such as The Predictive Index, Allego and Teamworks. Holly and her team have the insights to grow a successful business into one that defines or disrupts a category. She began her investing career at Guidepost Growth Equity (FKA: North Bridge Growth Equity) where she invested in companies such as WP Engine and Dyn. Her philosophy as an investor is to bring entrepreneurs exceptional value through a trusted partnership — helping to scale their companies to the next level while further innovating, building unique cultures, and delivering an excellent customer experience."
+            ]
+          },
+          {
+            name: "Dushyant Shahrawat",
+            img: "/public/assets/img/speakers/headshots/dushyantshahrawat.jpg",
+            topic: "",
+            year: "",
+            title: "Director",
+            company: "Rosenblatt Securities",
+            role: "",
+            keynote: false,
+            modalShown: false,
+            bioParagraphs: [
+              "Dushyant “D” Shahrawat is a financial services’ thought leader, MIT Sloan Fellow and a Director in Rosenblatt Securities’ FinTech Investment Banking group on Wall Street. He has 20+ years of experience advising financial institutions, tech firms, service providers and regulators on market trends, emerging technology and innovation. He has deep domain knowledge in financial services, having published 100+ research reports on strategic issues impacting finance, and has been invited to speak at conferences in 25 countries. D has also been quoted extensively in the press, interviewed on CNBC, Fox News, NPR, and been a guest speaker at Columbia, MIT and NYU.",
+              "For the last 5 years, he has been deeply involved in the digital transformation of finance (FinTech), having advised VCs and startups, and helping incumbent financial institutions innovate. In 2014, he was selected to be a MIT Sloan Fellow for a year, focusing on Innovation and entrepreneurship along with 120 executives from 34 countries.",
+              "Dushyant is active on the global FinTech circuit. He was invited by the Monetary Authority of Singapore to speak at the largest FinTech festival in Nov 2018, advised the Chinese government on regulating P2P lending, and served on the World Economic Forum's Cybersecurity committee meetings in NY/London/Singapore, to create a global blueprint for Internet security in finance.",
+              "He has an MBA from MIT Sloan, an MBA from Northeastern University, a BA in Economics (with Honors), and is a CFA charter holder."
             ]
           }
         ]
@@ -361,6 +379,23 @@
       {
         'category': 'Investing in Real Estate',
         'members': [
+          {
+            name: "Ben Brady",
+            img: "/public/assets/img/speakers/headshots/benbrady.jpg",
+            topic: "",
+            year: "",
+            title: "Managing Director",
+            company: "Bain Capital Real Estate",
+            role: "",
+            keynote: false,
+            modalShown: false,
+            bioParagraphs: [
+              "Mr. Brady joined Bain Capital in 2018 as part of Bain Capital Real Estate’s founding team. Bain Capital Real Estate was formed in 2018 and focuses on often hard-to-access sectors underpinned by enduring secular trends that drive long-term demand growth for real estate assets and services.",
+              "Prior to joining Bain Capital, Mr. Brady was a Senior Vice President and Portfolio Manager in Harvard Management Company’s (HMC) Real Estate Investment Group, where he was responsible for sourcing, underwriting, structuring, negotiating and managing HMC’s real estate investments.",
+              "Prior to joining HMC in 2006, Mr. Brady was an attorney at the Boston office of Ropes & Gray, LLP, where one of his principal clients was HMC. Mr. Brady represented HMC’s real estate, commodity, private equity, liquid market and timber groups in structuring, negotiating and documenting domestic and foreign investments and the analysis of tax issues with respect to such investments.",
+              "Mr. Brady received a Bachelor of Music and Master of Music degrees from Rice University in a 5-year honors program and is a graduate of the Yale Law School, where he was an editor of the Yale Law & Policy Review."
+            ]
+          },
           {
             name: "Jeffrey Gandel",
             img: "/public/assets/img/speakers/headshots/jeffreygandel.jpg",
@@ -477,6 +512,7 @@
             keynote: false,
             modalShown: false,
             bioParagraphs: [
+              "Katie completed her third and final co-op as part of Pillar’s platform team and is now an associate at the firm, where she brings her entrepreneurial passion to Pillar’s portfolio companies. Prior to Pillar, Katie completed worked as a co-op at Wellington Management in London where she served on the client and prospect communications team, and Hercules Capital, in Palo Alto, where she analyzed deals for the company’s venture debt portfolio. Katie graduated Northeastern with a degree in finance and entrepreneurship, where she served as the Investment Lead for IDEA: Northeastern University’s Venture Accelerator. Katie managed the Gap Fund, a $10,000 non-equity seed grant for ventures in the later stages of IDEA’s program."
             ]
           },
           {
@@ -653,7 +689,7 @@
         {
           time: "10:00 AM",
           activity: "Real Estate",
-          speaker: "Nicole Boyson* - Professor, Northeastern University\nJeff Gandel - Partner, LongWharf Capital\nGeorge Conti- VP Of Global Real Estate, Iron Mountain\nMatthew Gottesdiener- CIO, Northland"
+          speaker: "Ben Brady* - MD, Bain Capital Real Estate\nJeff Gandel - Partner, LongWharf Capital\nGeorge Conti- VP Of Global Real Estate, Iron Mountain\nMatthew Gottesdiener- CIO, Northland"
         },
         {
           time: "10:50 AM",
@@ -683,12 +719,12 @@
         {
           time: "2:30 PM",
           activity: "Investing in Technology",
-          speaker: "Lex Zhao- Senior Associate, One Way Ventures\nVivjan Myrto- Founder and Managing Partner, Hyperplane VC\nHolly Maloney- Managing Director, General Catalyst"
+          speaker: "Dushyant Shahrawat*- Director, Rosenblatt Securities\nLex Zhao- Senior Associate, One Way Ventures\nVivjan Myrto- Founder and Managing Partner, Hyperplane VC\nHolly Maloney- Managing Director, General Catalyst"
         },
         {
           time: "3:20 PM",
           activity: "Alternatives Pitch",
-          speaker: "Michelle Kelner - Senior Partner, Sandglass Capital Management"
+          speaker: "Nicole Boyson*- Professor, Northeastern University\nMichelle Kelner - Senior Partner, Sandglass Capital Management"
         },
         {
           time: "4:10 PM",
