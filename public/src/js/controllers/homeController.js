@@ -364,7 +364,7 @@
             year: "",
             title: "Director",
             company: "Rosenblatt Securities",
-            role: "",
+            role: "Speaker/Moderator",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
@@ -386,7 +386,7 @@
             year: "",
             title: "Managing Director",
             company: "Bain Capital Real Estate",
-            role: "",
+            role: "Moderator",
             keynote: false,
             modalShown: false,
             bioParagraphs: [
