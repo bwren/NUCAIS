@@ -291,6 +291,7 @@
             keynote: false,
             modalShown: false,
             bioParagraphs: [
+              "Jeff Lombardi is a senior investment professional with extensive global experience in both asset and wealth management. He started his career as an investment consultant to Fortune 500 clients at Lehman Brothers. In his next role, Jeff started a venture capital program at Alex. Brown attracting early stage technology companies in the Mid-Atlantic for investment banking purposes. He then became a partner in an early stage venture firm helping young technology companies launch their products and attract additional funding. Jeff was recruited by Citigroup to launch their first global multi asset class strategy within asset management exclusively for Citi Private Bank clients throughout the world. He most recently served as Global Head of Fund of Funds and Alternative Investments for Itau USA Asset management. During his tenure he has both managed over $14B in assets and helped raise $9B in discretionary funds."
             ]
           },
           {
@@ -512,7 +513,7 @@
             keynote: false,
             modalShown: false,
             bioParagraphs: [
-              "Katie completed her third and final co-op as part of Pillar’s platform team and is now an associate at the firm, where she brings her entrepreneurial passion to Pillar’s portfolio companies. Prior to Pillar, Katie completed worked as a co-op at Wellington Management in London where she served on the client and prospect communications team, and Hercules Capital, in Palo Alto, where she analyzed deals for the company’s venture debt portfolio. Katie graduated Northeastern with a degree in finance and entrepreneurship, where she served as the Investment Lead for IDEA: Northeastern University’s Venture Accelerator. Katie managed the Gap Fund, a $10,000 non-equity seed grant for ventures in the later stages of IDEA’s program."
+              "Katie is an Associate at Pillar VC, and part of Pillar’s platform team, where she works to provide Pillar’s portfolio companies with the resources and support they need to grow and scale. Prior to Pillar, Katie completed a co-op at Wellington Management in London where she served on the client and prospect communications team, and Hercules Capital, in Palo Alto, where she analyzed deals for the company’s venture debt portfolio. While at Northeastern, she was an active member of IDEA, and led both the Investment Committee and Community Team."
             ]
           },
           {
@@ -526,6 +527,26 @@
             keynote: false,
             modalShown: false,
             bioParagraphs: [
+              "Tim O’Brien is a Research Analyst on an industrials-focused equity long/short team, predominately covering U.S. auto, machinery, coatings, waste, and distribution sub-sectors.",
+              "Prior to joining the Firm, Mr. O’Brien was an Equity Research Analyst focused on autos and auto parts at Goldman Sachs. Before working for Goldman Sachs, he was an Equity Research Associate at BMO Capital Markets and an Equity Analyst Intern at BlueCrest Capital Management.",
+              "Mr. O’Brien earned his B.S. in Accounting and Finance from Northeastern University. While attending Northeastern, he was a member of the Finance and Investment club, and held various positions in the Phi Delta Theta Fraternity."
+              
+            ]
+          },
+          {
+            name: "Nicholas Lara",
+            img: "/public/assets/img/speakers/headshots/nicholaslara.jpg",
+            topic: "",
+            year: "",
+            title: "Chief Logistics Officer",
+            company: "Beauty Bakerie",
+            role: "Moderator",
+            keynote: false,
+            modalShown: false,
+            bioParagraphs: [
+              "Nicholas \"Nikko\" Lara graduated from the D'Amore-McKim School of Business with a BS in Finance & Economics having completed co-ops with MFS Investment Management, State Street Global Advisors and Wellington Management Company. During his time at Northeastern, he founded CAIS and was a Varsity athlete for the Northeastern Men's Soccer Team.",
+              "Nikko is currently the Chief Logistics Officer of Beauty Bakerie Cosmetics Brand, a VC backed, start-up based in San Diego, California. In his role, he oversees and manages the Company's supply chain, logistics, warehouse operations & inventory management."
+              
             ]
           }
         ]
